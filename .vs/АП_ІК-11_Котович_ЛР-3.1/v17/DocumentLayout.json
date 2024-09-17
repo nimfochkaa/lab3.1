@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs project\\\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D88AB3CE-5247-47A9-B6B8-674B9E869411}|\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1.vcxproj|D:\\vs project\\\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D88AB3CE-5247-47A9-B6B8-674B9E869411}|\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1.vcxproj|solutionrelative:\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.1.cpp",
+              "DocumentMoniker": "D:\\vs project\\\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\3.1.cpp",
+              "RelativeDocumentMoniker": "\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\3.1.cpp",
+              "ToolTip": "D:\\vs project\\\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\3.1.cpp",
+              "RelativeToolTip": "\u0410\u041F_\u0406\u041A-11_\u041A\u043E\u0442\u043E\u0432\u0438\u0447_\u041B\u0420-3.1\\3.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T14:23:37.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
